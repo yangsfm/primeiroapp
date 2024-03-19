@@ -1,10 +1,10 @@
 
-function Home () {
+function Sobre () {
     return(
         <div>
-            <h1>BEM VINDO A PAGINA HOME</h1>
+            <h1>BEM VINDO A PAGINA SOBRE</h1>
         </div>
     )
 }
 
-export default Home;
+export default Sobre;
